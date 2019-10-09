@@ -1,5 +1,5 @@
 def words():
-    text=input("Enter the words you want to compare(After every word please insert a comma) ")
+    text=input("Enter the words you want to compare(After every word please insert some space) ")
 
     longest=0
 
@@ -10,4 +10,5 @@ def words():
     return 0
 
 words()
+a=input("Enter any key to exit")
 
