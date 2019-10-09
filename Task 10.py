@@ -8,6 +8,9 @@ class rectangle:
         print("The area is: ",self.ans)
 
 
-rec_1 = rectangle(5,5)
+a=input("Enter the length ")
+b=input("Enter the breadth ")
+rec_1 = rectangle(a,b)
 
 rec_1.area()
+e=input("Enter any key to exit")
