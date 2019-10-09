@@ -12,3 +12,4 @@ for x in num:
 
 print("Odd Numbers are:",odd)
 print("Even numbers are",even)
+a=input("Enter any key to exit")
